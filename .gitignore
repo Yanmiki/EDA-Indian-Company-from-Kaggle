@@ -29,7 +29,7 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+
 
 # Логи и базы данных
 *.log
