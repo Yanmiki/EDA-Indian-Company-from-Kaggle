@@ -1,0 +1,55 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Логи и базы данных
+*.log
+*.sqlite3
+*.db
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Данные (если они большие)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Переменные окружения
+.env
+.env.local
